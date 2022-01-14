@@ -1,0 +1,38 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -nodebug -prj D:\VerilogExamples\CPU_Pipeline_P6\mips_txt_beh.prj -o testX.exe mips_txt 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Analyzing Verilog file "D:/VerilogExamples/CPU_Pipeline_P6/CU.v" into library work
+Analyzing Verilog file "D:/VerilogExamples/CPU_Pipeline_P6/W_R.v" into library work
+Analyzing Verilog file "D:/VerilogExamples/CPU_Pipeline_P6/SU.v" into library work
+Analyzing Verilog file "D:/VerilogExamples/CPU_Pipeline_P6/M_R.v" into library work
+Analyzing Verilog file "D:/VerilogExamples/CPU_Pipeline_P6/GRF.v" into library work
+Analyzing Verilog file "D:/VerilogExamples/CPU_Pipeline_P6/FU.v" into library work
+Analyzing Verilog file "D:/VerilogExamples/CPU_Pipeline_P6/E_R.v" into library work
+Analyzing Verilog file "D:/VerilogExamples/CPU_Pipeline_P6/E_HILO.v" into library work
+Analyzing Verilog file "D:/VerilogExamples/CPU_Pipeline_P6/E_ALU.v" into library work
+Analyzing Verilog file "D:/VerilogExamples/CPU_Pipeline_P6/D_R.v" into library work
+Analyzing Verilog file "D:/VerilogExamples/CPU_Pipeline_P6/D_NPC.v" into library work
+Analyzing Verilog file "D:/VerilogExamples/CPU_Pipeline_P6/D_CMP.v" into library work
+Analyzing Verilog file "D:/VerilogExamples/CPU_Pipeline_P6/mips.v" into library work
+Analyzing Verilog file "D:/VerilogExamples/CPU_Pipeline_P6/mips_txt.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module CU
+Compiling module SU
+Compiling module FU
+Compiling module D_R
+Compiling module D_GRF
+Compiling module D_CMP
+Compiling module D_NPC
+Compiling module E_R
+Compiling module E_ALU
+Compiling module E_HILO
+Compiling module M_R
+Compiling module W_R
+Compiling module mips
+Compiling module mips_txt
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...

@@ -1,0 +1,1 @@
+-nodebug -prj "D:\VerilogExamples\CPU_Pipeline_P6\mips_txt_beh.prj" -o "testX.exe" "mips_txt" 
